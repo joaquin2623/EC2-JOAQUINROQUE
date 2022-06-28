@@ -1,0 +1,5 @@
+package com.example.HospitalIdat.repository;
+
+public interface RecepcionistaRepository {
+
+}
